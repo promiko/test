@@ -9,6 +9,7 @@ namespace ConsoleApp86 {
         static void Main(string[] args) {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Привет! Это моя первая программа на C#!");
+            Console.WriteLine("Новая строка для добавления");
             
         }
     }
